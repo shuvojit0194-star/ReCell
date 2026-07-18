@@ -33,7 +33,8 @@ Linear regression model predicting the resale price of used smartphones and tabl
 
 | File | Description |
 |---|---|
-| `recell_pricing_model.ipynb` | Full EDA + regression implementation |
+| `recell_pricing_model.ipynb` | Linear regression + VIF analysis + pricing model |
+| `recell_supervised_ml_comparison.ipynb` | Extended comparison: Decision Tree, Random Forest, GBM, XGBoost on the same dataset |
 | `used_device_data.csv` | Dataset |
 
 ## Business Application
